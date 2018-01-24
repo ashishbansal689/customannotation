@@ -2,9 +2,10 @@
 This is an example of how to create custom annotation with spring and use it.
 
 Packages:
-com.threadminions - Base pacakage, contains main class of Spring boot.
-com.threadminions.annotations - Package which contains annotation class and its validator class.
-com.threadminions.model - Model packages, contains model class on which custom annotation is applied.
+
+1. com.threadminions - Base pacakage, contains main class of Spring boot.
+2. com.threadminions.annotations - Package which contains annotation class and its validator class.
+3. com.threadminions.model - Model packages, contains model class on which custom annotation is applied.
 
 In this project there are two main classes:
 
