@@ -1,0 +1,4 @@
+com\threadminions\annotations\CustomValidator.class
+com\threadminions\model\ConfigProp.class
+com\threadminions\SpringBootMain.class
+com\threadminions\annotations\SupportedValues.class
